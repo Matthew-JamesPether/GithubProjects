@@ -25,21 +25,22 @@ I developed a website that uses Express to design a backend server that fetches 
 A ScreenShot of the app running
 ![GithubProject-ScreenShots/Screenshot(1).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(1).png)
 
-A ScreenShot of how to use the help button and how to close the help prompt
+A ScreenShot of how to search for a user
 ![GithubProject-ScreenShots/Screenshot(2).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(2).png)
 
-A ScreenShot of the right letter being selected
+A ScreenShot of the results that have been found
 ![GithubProject-ScreenShots/Screenshot(3).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(3).png)
 
-A ScreenShot of the wrong letter being selected 
+A ScreenShot of a user being selected and their bio being displayed
 ![GithubProject-ScreenShots/Screenshot(4).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(4).png)
 
-A ScreenShot of the playler losing with a restart button appearing
+A ScreenShot of how the repo buttons work
 ![GithubProject-ScreenShots/Screenshot(5).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(5).png)
 
-A ScreenShot of the player winning with a restart button appearing
+A ScreenShot of the repo information being show when selected
 ![GithubProject-ScreenShots/Screenshot(6).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(6).png)
 
+A Screenshot of how the back to bio button works
 ![GithubProject-ScreenShots/Screenshot(7).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(7).png)
 
 ### Credit
