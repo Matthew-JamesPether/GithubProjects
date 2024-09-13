@@ -162,4 +162,4 @@ app.get("/gitprojects/repo/:username/:repo", async (req, resp) => {
 });
 
 // Server is listening to the port
-app.listen(process.env.PORT, () => console.log("Listening engaged"));
+app.listen(process.env.PORT || 8080, () => console.log("Listening engaged"));
