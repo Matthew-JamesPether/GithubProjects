@@ -14,6 +14,7 @@ I developed a website that uses Express to design a backend server that fetches 
 1. Select Download ZIP.
 1. Open zip file (may need to download a file archiver, 7-Zip is a free file archiver).
 1. Move the file inside zip file to a file of your choosing.
+1. Open 'github_projects' create a .env file and store your github API key here
 1. Open Your terminal and direct yourself to the 'github_projects'
 1. Type 'npm install' to download the node_modules folder for express
 1. Type 'npm start' to start the backend server
