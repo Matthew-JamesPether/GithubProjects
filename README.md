@@ -37,7 +37,7 @@ A ScreenShot of a user being selected and their bio being displayed
 A ScreenShot of how the repo buttons work
 ![GithubProject-ScreenShots/Screenshot(5).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(5).png)
 
-A ScreenShot of the repo information being show when selected
+A ScreenShot of the repo information being displayed when selected
 ![GithubProject-ScreenShots/Screenshot(6).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(6).png)
 
 A Screenshot of how the back to bio button works
