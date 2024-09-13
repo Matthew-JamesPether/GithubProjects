@@ -23,7 +23,7 @@ I developed a website that uses Express to design a backend server that fetches 
 
 ### Usage
 A ScreenShot of the app running
-![Hangman Screenshots/Screenshot(1).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(1).png)
+![GithubProject-ScreenShots/Screenshot(1).png]([https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(1).png](https://github.com/Matthew-JamesPether/GithubProjects/blob/main/github_projects/GithubProject-ScreenShots/Screenshot%20(1).png))
 
 A ScreenShot of how to use the help button and how to close the help prompt
 ![Hangman Screenshots/Screenshot(2).png](https://github.com/Matthew-JamesPether/Hangman/blob/main/react-hangman/Hangman%20Screenshots/Screenshot%20(2).png)
