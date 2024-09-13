@@ -1,0 +1,15 @@
+/* Styles the bio layout container */
+.bio-layout-container{
+    grid-column: 2 / 3;
+    padding: 20px;
+}
+
+/* Styles the p tags */
+p {
+    font-weight: bold;
+}
+
+/* Styles the span tags */
+span {
+    font-weight: 200;
+}

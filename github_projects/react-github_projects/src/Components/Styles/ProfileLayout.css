@@ -1,0 +1,42 @@
+/* Styles the profile layout component */
+.profile-container {
+  grid-column: 1 / 2;
+  background-color: #353d46;
+}
+
+/* Styles the repo buttons */
+.repo-buttons-container {
+  max-height: 230px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/* Styles the bio button */
+.bio-button {
+  width: 260px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 5px;
+  background: #445160;
+  margin: 5px;
+}
+
+/* Styles the bio button over hover */
+.bio-button:hover {
+  border-radius: 5px;
+  background: orange;
+}
+
+/* Styles the img tag */
+img {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 75px;
+  top: 10px;
+  border-radius: 10px;
+}
+
+/* Styles the h2 tag */ 
+h2 {
+  padding: 30px 0px 10px 10px;
+}

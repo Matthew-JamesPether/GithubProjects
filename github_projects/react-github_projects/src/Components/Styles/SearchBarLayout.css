@@ -1,0 +1,53 @@
+/* Styles the search bar layout container */
+.searchBar-layout-container {
+  position: relative;
+  left: 475px;
+  max-width: 320px;
+  padding: 10px;
+  border-radius: 20px;
+  bottom: 10px;
+}
+
+/* Styles the search bar  */
+.searchbar-container {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: orange;
+  opacity: 90%;
+}
+
+/* Styles the input tag */
+input {
+  width: 250px;
+  font-size: 20px;
+}
+
+/* Styles the Search Results container */
+.search-results-container {
+  color: black;
+  border-radius: 10px;
+  background-color: orange;
+  opacity: 70%;
+  max-height: 300px;
+  overflow-y: scroll;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+/* Styles the Search Results container */
+.user-list {
+  padding-bottom: 10px;
+}
+
+/* Styles the list of users when hovered over */
+.user-list:hover {
+  background-color: rgb(232, 183, 92);
+  opacity: 100%;
+  border-radius: 5px;
+}
+
+/* Styles the search icon */
+.search-icon {
+  margin-left: 10px;
+  color: white;
+}

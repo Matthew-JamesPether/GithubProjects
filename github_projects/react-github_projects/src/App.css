@@ -1,0 +1,28 @@
+/* Styles the app */
+.App {
+  background-color: #24292f;
+  color: white;
+}
+
+/* Styles the content */
+.content {
+  background-color: #454f5c;
+  height: 525px;
+  display: grid;
+  margin: 0px 60px 0px 60px;
+  grid-template-columns: 300px auto;
+}
+
+/* Styles the app loading animation */
+.app-loading {
+  position: absolute;
+  right: 590px;
+  top: 50%;
+}
+
+/* Styles the repo loading animation*/
+.repo-loading {
+  position: absolute;
+  right: 480px;
+  top: 50%;
+}

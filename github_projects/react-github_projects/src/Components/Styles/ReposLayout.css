@@ -1,0 +1,27 @@
+/* Styles the repos layout container */
+.repos-layout-container {
+    grid-column: 2 / 3;
+    padding: 20px;
+}
+
+/* Styles the commits container */
+.commits-container {
+    max-height: 240px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+/* Styles each commit */
+.commits {
+    border-radius: 5px;
+    border: solid orange;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+/* Styles the h3 tag */
+h3 {
+    padding-top: 10px;
+   padding-bottom: 30px;
+}
